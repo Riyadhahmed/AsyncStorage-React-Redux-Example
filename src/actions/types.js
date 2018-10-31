@@ -1,0 +1,4 @@
+export const ADD_USER = "ADD_USER";
+export const FETCH_SERVER_USER = "FETCH_SERVER_USER";
+export const FETCH_LOCAL_USER = "FETCH_LOCAL_USER";
+export const EMPTY_LOCAL_USER = "EMPTY_LOCAL_USER";
