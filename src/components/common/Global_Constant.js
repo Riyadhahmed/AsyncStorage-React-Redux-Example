@@ -1,10 +1,8 @@
 import React from "react";
 import { Dimensions } from "react-native";
 
-const SITE_URL = "http://dainikazadi.net/";
-const LOCAL_URL = "http://127.0.0.0:80/azadi/wp-json/myapi/v2/";
-const LIVE_URL = "http://dainikazadi.net/wp-json/myapi/v2/";
-const TEST_URL = "http://azadi.w3xplorers.com/wp-json/myapi/v2/";
+const SITE_URL = "https://jsonplaceholder.typicode.com/users";
+const LIVE_URL = "https://jsonplaceholder.typicode.com/users";
 //const PREVIEW_IMAGE = require("../../assets/logo/azadi_logo.png");
 
 let ScreenHeight = Dimensions.get("window").height;
